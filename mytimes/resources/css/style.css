@@ -178,18 +178,11 @@ nav span {
   color: DimGray;
 }
 
-#main-wrapper {
-  padding: 0 0 100px;
-  position: relative;
-  box-sizing: border-box;
-  min-height: 100%;
-}
-
-.footer {
+#footer {
  bottom: 0;
  height: 100px;
  left: 0;
- position: absolute;
+ position: fixed;
  width: 100%;
  background-color: MediumAquamarine;
  margin: auto;
