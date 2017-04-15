@@ -1,0 +1,82 @@
+html, body {
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+}
+
+
+<!--Header -->
+
+
+#myTopnav ul {
+	float: right;
+	font-size: 1.5rem;
+	position: absolute;
+}
+
+
+
+<!--Section 1 -->
+
+.students img {
+	float: left;
+	padding: 32px 40px 32px 40px;
+}
+
+h1 {
+	float:right;
+	padding: 32px 30px 32px 20px;
+	text-align: center;
+}
+
+.students p {
+	float: right
+}
+
+.btn {
+	background-color: darkgray;
+	color: white;
+	text-align: center;
+	display: inline-block;
+	padding: 8px 8px;
+	float: right;
+}
+
+<!--Section 2 information-->
+
+.reader img {
+	float: left;
+	padding: 32px 24px 32px 24px;
+}
+
+.reader h2 {
+	float: right;
+	text-align: center;
+	padding: 32px 30px 32px 20px;
+}
+
+.reader p {
+	float: right;
+}
+
+.student-shadows img {
+	float: left;
+	padding: 32px 24px 32px 24px;
+}
+
+.student-shadows h3 {
+	float: right;
+	text-align: center;
+	padding: 32px 30px 32px 20px;
+}
+
+.student-shadows p {
+	float: right;
+}
+
+
+
+<!-- Section 3: Start Learning-->
+
+<!-- Section 4: Thesis Exhibit-->
+
+<!-- Footer-->
